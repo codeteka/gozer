@@ -1,0 +1,26 @@
+{
+  "name": "gozer",
+  "version": "1.0.0",
+  "description": "Gozer theme for Ghost",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codeteka/gozer.git"
+  },
+  "author": {
+    "name" : "codeteka",
+    "email": "codeteka@gmail.com",
+    "url": "http://codeteka.io"
+  },
+  "keywords": [
+        "ghost",
+        "theme"
+    ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codeteka/gozer/issues"
+  },
+  "homepage": "https://github.com/codeteka/gozer#readme",
+  "contributors": "https://github.com/codeteka/gozer/graphs/contributors"
+}
