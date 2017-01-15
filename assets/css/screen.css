@@ -25,7 +25,10 @@
 /* ==========================================================================
    0. normalize.css v3.0.3 | MIT License | git.io/normalize | (minified)
    ========================================================================== */
-
+/*
+    colors
+    accent 00c0af
+*/
 html {
     font-family: sans-serif;
     -ms-text-size-adjust: 100%;
@@ -1059,12 +1062,36 @@ body.page-template .post-title {
 }
 
 .post-meta a {
-    color: #9EABB3;
+    color: #FFF;
+    background: #00c0af;
+    border-radius: 1em;
+    font-size: .8em;
+    margin-bottom: 1em;
+    margin-right: 1em;
+    padding: .5em 1em;
     text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
 }
 
 .post-meta a:hover {
     text-decoration: underline;
+}
+
+.post-tag{
+    margin: .5em 0 1em .75em;
+}
+
+.post-tags a {
+    
+    color: #7d7d7d;
+    font-size: .8em;
+    margin-bottom: 1em;
+    margin-right: 1em;
+    padding: .5em 1em;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: rgba(0,0,0,0.8);
 }
 
 .user-meta {
